@@ -80,7 +80,7 @@ body, html {
 }
 
 .content__div h2 {
-    font-size: calc(22pt + 0.15vw);
+    font-size: calc(26pt + 0.15vw);
     color: #e9d5bd;
     font-family: 'Poppins__Bold';
     letter-spacing: 0.03em;
